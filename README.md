@@ -1,11 +1,6 @@
 <!-- Live Typing Terminal Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=600&lines=meruguvanshitha;cat+profile.json;Building+scalable+backend+systems...;Agentic+AI+%26+Full-Stack+Dev" alt="Header Typing SVG" />
-</p>
-
-<!-- Profile Photo -->
-<p align="center">
-  <img src="https://github.com/meruguvanshitha.png" alt="Profile Picture" width="160" style="border-radius: 50%;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=600&lines=meruguvanshitha;cat+profile.json;Building+scalable+backend+systems...;Solving+DSA+in+Python+%26+REST+APIs" alt="Header Typing SVG" />
 </p>
 
 <!-- Terminal Profile Card -->
@@ -17,15 +12,16 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👤 About Me
 
-I'm an **AI & Data Science student at Amrita Vishwa Vidyapeetham**, and I like building things that either think for themselves or scale far beyond my laptop — sometimes both.
+I'm a **Computer Science Engineering Student** passionate about Data Structures & Algorithms, Backend Systems, and Agentic AI workflows.
 
-* 🏆 **Won the NitroStack Hackathon** — built and shipped something real under pressure
-* 🤖 **Exploring Agentic AI** — systems that don't just respond, they act
-* 💻 **Full-stack development** across Python, React, and Next.js
-* ☁️ **Getting hands-on with the cloud** through AWS
-* 🎯 **Currently open to internships** — always down to build something that matters
+* 🎓 **Academics:** B.Tech CSE (9.3 CGPA) | Malla Reddy Technical Campus
+* 🏆 **Achievements:** Winner of Internal SIH 2025 | 2nd Runner-Up at Smart India Internal Hackathon 2026 (Team Cosmic Coders)
+* 💡 **Focus:** DSA in Python (Trees, Graphs, DP, Sliding Window) & System Architecture
+* ⚙️ **Core Stack:** Python, Express.js, Node.js, FastAPI, MongoDB, MySQL & SQLite
+* 🚀 **Building:** Backend APIs, Crypto Telegram Alert Bots, and AI Agent workflows (`smolagents`)
+* 🌐 **Open Source:** Contributor at GirlScript Summer of Code (GSSoC) & LFX Mentorship Aspirant
 
 ---
 
@@ -33,15 +29,13 @@ I'm an **AI & Data Science student at Amrita Vishwa Vidyapeetham**, and I like b
 
 <div align="center">
 
-#### Languages & Frameworks
+#### Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
 </p>
 
-#### Backend, Databases & Cloud
+#### Backend & Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
@@ -49,7 +43,6 @@ I'm an **AI & Data Science student at Amrita Vishwa Vidyapeetham**, and I like b
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
 </p>
 
 #### Developer Tools
@@ -91,4 +84,10 @@ I'm an **AI & Data Science student at Amrita Vishwa Vidyapeetham**, and I like b
   <a href="https://linkedin.com/in/vanshithamerugu">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting — ⭐ a repo of mine if you found something useful!</i>
 </p>

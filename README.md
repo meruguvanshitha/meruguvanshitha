@@ -1,6 +1,6 @@
 <!-- Live Typing Terminal Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=500&lines=meruguvanshitha;cat+profile.json;Building+scalable+systems...;Solving+DSA+%26+Backend+APIs" alt="Header Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=600&lines=meruguvanshitha;cat+profile.json;Building+scalable+backend+systems...;Solving+DSA+in+Python+%26+REST+APIs" alt="Header Typing SVG" />
 </p>
 
 <!-- Terminal Profile Card -->
@@ -16,12 +16,14 @@
 
 ### 👤 About Me
 
-I'm a **Computer Science Engineering Student** focused on Data Structures & Algorithms and Backend Software Engineering.
+I'm a **Computer Science Engineering Student** passionate about Data Structures & Algorithms, Backend Systems, and Agentic AI workflows.
 
-* 💡 **Focus:** DSA in Python, System Design, and RESTful API Architecture
-* ⚙️ **Core Tech:** Express.js, Node.js, SQLite, MongoDB, MySQL, and FastAPI
-* 🚀 **Building:** Scalable backend applications, real-time bots, and automation tools
-* 🌐 **Open Source:** Active contributor in developer communities and mentorship programs
+* 🎓 **Academics:** B.Tech CSE (9.3 CGPA) | Malla Reddy Technical Campus
+* 🏆 **Achievements:** Winner of Internal SIH 2025 | 2nd Runner-Up at Smart India Internal Hackathon 2026 (Team Cosmic Coders)
+* 💡 **Focus:** DSA in Python (Trees, Graphs, DP, Sliding Window) & System Architecture
+* ⚙️ **Core Stack:** Python, Express.js, Node.js, FastAPI, MongoDB, MySQL & SQLite
+* 🚀 **Building:** Backend APIs, Crypto Telegram Alert Bots, and AI Agent workflows (`smolagents`)
+* 🌐 **Open Source:** Contributor at GirlScript Summer of Code (GSSoC) & LFX Mentorship Aspirant
 
 ---
 
@@ -47,7 +49,7 @@ I'm a **Computer Science Engineering Student** focused on Data Structures & Algo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
 </p>
 
-#### Tools & Developer Utilities
+#### Developer Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>

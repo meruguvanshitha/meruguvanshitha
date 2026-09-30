@@ -1,18 +1,95 @@
-# 💫 About Me:
-🔭 I'm currently working on: Distributed backend microservices & LFX mentorship applications<br><br>👯 I'm looking to collaborate on: Open-source Python & Node.js infrastructure tools<br><br>🤝 I'm looking for help with: Advanced System Design & Distributed Systems<br><br>🌱 I'm currently learning: Hugging Face smolagents & AI Agent workflows<br><br>💬 Ask me about: Data Structures & Algorithms, Express.js, and REST APIs<br><br>⚡ Fun fact: I maintained a 9.3 CGPA while building full-stack backend projects and solving 100+ DSA problems in Python!
+<!-- Live Typing Terminal Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=500&lines=meruguvanshitha;cat+profile.json;Building+scalable+systems...;Solving+DSA+%26+Backend+APIs" alt="Header Typing SVG" />
+</p>
 
+<!-- Terminal Profile Card -->
+<div align="center">
+  <img src="https://github-readme-terminal.vercel.app/api?user=meruguvanshitha&theme=dark" alt="Terminal Profile" width="85%" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanshitha-merugu-071425391/ ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meruguvanshitha@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=meruguvanshitha&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=meruguvanshitha&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=meruguvanshitha&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> *"I'd rather ship an imperfect product than a perfect one that never ships."*
 
 ---
-[![](https://komarev.com/ghpvc/?username=meruguvanshitha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👤 About Me
+
+I'm a **Computer Science Engineering Student** focused on Data Structures & Algorithms and Backend Software Engineering.
+
+* 💡 **Focus:** DSA in Python, System Design, and RESTful API Architecture
+* ⚙️ **Core Tech:** Express.js, Node.js, SQLite, MongoDB, MySQL, and FastAPI
+* 🚀 **Building:** Scalable backend applications, real-time bots, and automation tools
+* 🌐 **Open Source:** Active contributor in developer communities and mentorship programs
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+</p>
+
+#### Backend & Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
+</p>
+
+#### Tools & Developer Utilities
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meruguvanshitha&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meruguvanshitha&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meruguvanshitha&theme=synthwave&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meruguvanshitha/meruguvanshitha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vanshithamerugu">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting — ⭐ a repo of mine if you found something useful!</i>
+</p>

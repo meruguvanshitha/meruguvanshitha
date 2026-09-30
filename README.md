@@ -1,6 +1,11 @@
 <!-- Live Typing Terminal Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=500&lines=meruguvanshitha;cat+profile.json;Building+scalable+systems...;Solving+DSA+%26+Backend+APIs" alt="Header Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=600&lines=meruguvanshitha;cat+profile.json;Building+scalable+backend+systems...;Agentic+AI+%26+Full-Stack+Dev" alt="Header Typing SVG" />
+</p>
+
+<!-- Profile Photo -->
+<p align="center">
+  <img src="https://github.com/meruguvanshitha.png" alt="Profile Picture" width="160" style="border-radius: 50%;" />
 </p>
 
 <!-- Terminal Profile Card -->
@@ -10,18 +15,17 @@
 
 <br/>
 
-> *"I'd rather ship an imperfect product than a perfect one that never ships."*
-
 ---
 
-### 👤 About Me
+### 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering Student** focused on Data Structures & Algorithms and Backend Software Engineering.
+I'm an **AI & Data Science student at Amrita Vishwa Vidyapeetham**, and I like building things that either think for themselves or scale far beyond my laptop — sometimes both.
 
-* 💡 **Focus:** DSA in Python, System Architecture, and RESTful API Design
-* ⚙️ **Core Tech:** Express.js, Node.js, SQLite, MongoDB, MySQL, and FastAPI
-* 🚀 **Building:** Scalable backend applications, real-time bots, and automation tools
-* 🌐 **Open Source:** Active contributor in developer communities and mentorship programs
+* 🏆 **Won the NitroStack Hackathon** — built and shipped something real under pressure
+* 🤖 **Exploring Agentic AI** — systems that don't just respond, they act
+* 💻 **Full-stack development** across Python, React, and Next.js
+* ☁️ **Getting hands-on with the cloud** through AWS
+* 🎯 **Currently open to internships** — always down to build something that matters
 
 ---
 
@@ -29,30 +33,31 @@ I'm a **Computer Science Engineering Student** focused on Data Structures & Algo
 
 <div align="center">
 
-#### Languages
+#### Languages & Frameworks
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
 </p>
 
-#### Backend & Databases
+#### Backend, Databases & Cloud
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
 </p>
 
-#### Tools & Developer Utilities
+#### Developer Tools
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="45" height="45"/>
 </p>
 
 </div>
@@ -67,7 +72,7 @@ I'm a **Computer Science Engineering Student** focused on Data Structures & Algo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meruguvanshitha&theme=synthwave&hide_border=true&date_format=M%20j%20Y" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meruguvanshitha&theme=synthwave&hide_border=true" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
@@ -86,10 +91,4 @@ I'm a **Computer Science Engineering Student** focused on Data Structures & Algo
   <a href="https://linkedin.com/in/vanshithamerugu">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting — ⭐ a repo of mine if you found something useful!</i>
 </p>

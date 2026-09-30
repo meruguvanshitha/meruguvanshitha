@@ -4,19 +4,19 @@
 </p>
 
 <!-- Terminal Profile Card -->
-<div align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?user=meruguvanshitha&theme=dark" alt="Terminal Profile" width="85%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-terminal.vercel.app/api?user=meruguvanshitha&theme=dark" alt="Terminal Profile" width="100%" onerror="this.src='https://github-readme-stats.vercel.app/api?username=meruguvanshitha&theme=dark&hide_border=true'" />
+</p>
 
 <br/>
 
 ---
 
-### 👤 About Me
+### 🧑‍💻 About Me
 
 I'm a **Computer Science Engineering Student** passionate about Data Structures & Algorithms, Backend Systems, and Agentic AI workflows.
 
-* 🎓 **Academics:** B.Tech CSE (9.3 CGPA) | Malla Reddy Technical Campus
+* 🎓 **Academics:** B.Tech CSE (9.18 CGPA) | Malla Reddy Technical Campus
 * 🏆 **Achievements:** Winner of Internal SIH 2025 | 2nd Runner-Up at Smart India Internal Hackathon 2026 (Team Cosmic Coders)
 * 💡 **Focus:** DSA in Python (Trees, Graphs, DP, Sliding Window) & System Architecture
 * ⚙️ **Core Stack:** Python, Express.js, Node.js, FastAPI, MongoDB, MySQL & SQLite
@@ -84,10 +84,4 @@ I'm a **Computer Science Engineering Student** passionate about Data Structures 
   <a href="https://linkedin.com/in/vanshithamerugu">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting — ⭐ a repo of mine if you found something useful!</i>
 </p>

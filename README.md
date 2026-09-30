@@ -25,7 +25,7 @@ I'm a **Computer Science Engineering Student** passionate about Data Structures 
 
 ---
 
-### 🛠️️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -33,8 +33,6 @@ I'm a **Computer Science Engineering Student** passionate about Data Structures 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 </p>
 
 #### Backend & Databases

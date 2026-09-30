@@ -1,11 +1,6 @@
-<!-- Live Typing Terminal Header -->
+<!-- Live Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=600&lines=meruguvanshitha;cat+profile.json;Building+scalable+backend+systems...;Solving+DSA+in+Python+%26+REST+APIs" alt="Header Typing SVG" />
-</p>
-
-<!-- Terminal Profile Card -->
-<p align="center">
-  <img src="https://github-readme-terminal.vercel.app/api?user=meruguvanshitha&theme=dark" alt="Terminal Profile" width="100%" onerror="this.src='https://github-readme-stats.vercel.app/api?username=meruguvanshitha&theme=dark&hide_border=true'" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20C997&center=true&vcenter=true&width=600&lines=meruguvanshitha;Building+scalable+backend+systems...;Solving+DSA+in+Python+%26+REST+APIs" alt="Header Typing SVG" />
 </p>
 
 <br/>
@@ -66,14 +61,6 @@ I'm a **Computer Science Engineering Student** passionate about Data Structures 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meruguvanshitha&theme=synthwave&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meruguvanshitha/meruguvanshitha/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---

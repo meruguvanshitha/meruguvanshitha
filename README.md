@@ -60,7 +60,7 @@ I'm a **Computer Science Engineering Student** passionate about Data Structures 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meruguvanshitha&theme=synthwave&hide_border=true" alt="GitHub Streak" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meruguvanshitha&theme=synthwave&hide_border=true&timezone=Asia/Kolkata" alt="GitHub Streak" width="97%" />
 </p>
 
 ---

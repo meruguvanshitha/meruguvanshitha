@@ -11,8 +11,10 @@
 
 I'm a **Computer Science Engineering Student** passionate about Data Structures & Algorithms, Backend Systems, and Agentic AI workflows.
 
-* 🎓 **Academics:** B.Tech CSE (9.18 CGPA) | Malla Reddy Technical Campus
+* 🎓 **Academics:** B.Tech CSE (9.3 CGPA) | Malla Reddy Technical Campus
 * 🏆 **Achievements:** Winner of Internal SIH 2025 | 2nd Runner-Up at Smart India Internal Hackathon 2026 (Team Cosmic Coders)
+* 📜 **Certifications:** [![Hugging Face Agents Course](https://img.shields.io/badge/Hugging%20Face-Agents%20Course%20Unit%201-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/learn/agents-course)
+
 * 💡 **Focus:** DSA in Python (Trees, Graphs, DP, Sliding Window) & System Architecture
 * ⚙️ **Core Stack:** Python, Express.js, Node.js, FastAPI, MongoDB, MySQL & SQLite
 * 🚀 **Building:** Backend APIs, Crypto Telegram Alert Bots, and AI Agent workflows (`smolagents`)
